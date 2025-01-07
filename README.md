@@ -26,5 +26,3 @@
 </ul>
 <ul><iframe src="https://drive.google.com/file/d/1oekrkCTr4Nk4eY2wtAqIgW9fb2AdZu2y/preview" width="600"
         height="400"></iframe>
-
-</html>
